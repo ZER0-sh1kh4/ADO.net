@@ -1,0 +1,106 @@
+C:\Users\SHOBHIT\source\repos\mvc ado.net\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\SHOBHIT\source\repos\mvc ado.net\bin\Debug\net10.0\appsettings.json
+C:\Users\SHOBHIT\source\repos\mvc ado.net\bin\Debug\net10.0\mvc ado.net.staticwebassets.runtime.json
+C:\Users\SHOBHIT\source\repos\mvc ado.net\bin\Debug\net10.0\mvc ado.net.staticwebassets.endpoints.json
+C:\Users\SHOBHIT\source\repos\mvc ado.net\bin\Debug\net10.0\mvc ado.net.exe
+C:\Users\SHOBHIT\source\repos\mvc ado.net\bin\Debug\net10.0\mvc ado.net.deps.json
+C:\Users\SHOBHIT\source\repos\mvc ado.net\bin\Debug\net10.0\mvc ado.net.runtimeconfig.json
+C:\Users\SHOBHIT\source\repos\mvc ado.net\bin\Debug\net10.0\mvc ado.net.dll
+C:\Users\SHOBHIT\source\repos\mvc ado.net\bin\Debug\net10.0\mvc ado.net.pdb
+C:\Users\SHOBHIT\source\repos\mvc ado.net\bin\Debug\net10.0\System.Data.SqlClient.dll
+C:\Users\SHOBHIT\source\repos\mvc ado.net\bin\Debug\net10.0\runtimes\win-arm64\native\sni.dll
+C:\Users\SHOBHIT\source\repos\mvc ado.net\bin\Debug\net10.0\runtimes\win-x64\native\sni.dll
+C:\Users\SHOBHIT\source\repos\mvc ado.net\bin\Debug\net10.0\runtimes\win-x86\native\sni.dll
+C:\Users\SHOBHIT\source\repos\mvc ado.net\bin\Debug\net10.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\SHOBHIT\source\repos\mvc ado.net\bin\Debug\net10.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\mvc ado.net.csproj.AssemblyReference.cache
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\mvc ado.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\mvc ado.net.AssemblyInfoInputs.cache
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\mvc ado.net.AssemblyInfo.cs
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\mvc ado.net.csproj.CoreCompileInputs.cache
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\mvc ado.net.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\mvc ado.net.RazorAssemblyInfo.cache
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\mvc ado.net.RazorAssemblyInfo.cs
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\scopedcss\bundle\mvc ado.net.styles.css
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\scopedcss\projectbundle\mvc ado.net.bundle.scp.css
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\7do8oi00yr-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\nk2lqv0z7g-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\kyoknxiqk2-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\wmannfqlxf-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\8gz3h7rcnm-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\0kotbdv4zu-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\jp30g59a07-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\na8z2pfrxu-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\0t6trnbysk-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\706iedinwz-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\irfgcz2ves-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\tinpitqb5e-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\l4ifn7ye7s-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\47bcnpgrzm-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\abd64ivjvl-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\56wermqh7x-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\d61i67ls32-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\asb3xrh09a-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\1vy9qbup8w-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\zh8r40mva8-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\5wm8wxxm5k-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\72pr845fw4-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\0tngl49a0u-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\t5y5ub8mth-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\zamebo8gy6-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\72hl6zhwfx-{0}-06098lyss8-06098lyss8.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\bwi40y1u2k-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\qzt5spgpub-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\qetfqsdnc8-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\vfig4i5wmp-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\9xgyxs2yx1-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\ujnnph604e-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\q4xczb34tt-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\nj7reuc2t6-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\yl3h5siq4w-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\6i5qts48dd-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\kgsyraw6pl-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\jts08qbqv9-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\hfzodqcpxu-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\qv2hn1jwdq-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\jcos3yudfy-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\panvsaj4ug-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\qs4myjyv3c-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\v7cexp1whn-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\dkng991arr-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\qdn5klewg2-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\wjn60qn56m-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\1fkfy1z1rz-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\eomebx7yxf-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\3aqx0sui4t-{0}-356vix0kms-356vix0kms.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\c0862cg9oo-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\w69idcx5qj-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\mj93ao7hmo-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\ljprfil3hf-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\arms3814kw-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\dmt3io9gpy-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\lyr7cycg0h-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\el2urdr99o-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\sq0w9xmeab-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\y08xvpxm7b-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\01962qcbyg-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\15eh07fmpi-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\fduxte0ht9-{0}-ytuo13ftn7-ytuo13ftn7.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\compressed\ejaubt2hgi-{0}-ytuo13ftn7-ytuo13ftn7.gz
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\mvc ado..9CFB31ED.Up2Date
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\mvc ado.net.dll
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\refint\mvc ado.net.dll
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\mvc ado.net.pdb
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\mvc ado.net.genruntimeconfig.cache
+C:\Users\SHOBHIT\source\repos\mvc ado.net\obj\Debug\net10.0\ref\mvc ado.net.dll

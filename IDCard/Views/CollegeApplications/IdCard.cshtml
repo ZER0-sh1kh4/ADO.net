@@ -1,0 +1,383 @@
+﻿@model IDCard.Models.CollegeApplication
+
+@{
+    ViewData["Title"] = "ID Card";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ID Card - @Model.FullName</title>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" />
+    <!-- Icons -->
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" />
+
+    <style>
+            body {
+                background: #f0f4f8;
+                font-family: 'Segoe UI', sans-serif;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                min-height: 100vh;
+                padding: 30px 20px;
+                margin: 0;
+            }
+
+            /* ── THE ID CARD BOX ── */
+            .id-card {
+                width: 400px;
+                background: white;
+                border-radius: 12px;
+                overflow: hidden;
+                box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+            }
+
+            /* Red top header of card */
+            .card-top {
+                background: #8b0000;
+                color: white;
+                padding: 14px 18px;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+            }
+
+                .card-top .college {
+                    font-size: 14px;
+                    font-weight: 700;
+                }
+
+                .card-top .college-sub {
+                    font-size: 10px;
+                    opacity: 0.8;
+                    margin-top: 2px;
+                }
+
+            /* STUDENT IDENTITY CARD label */
+            .card-label {
+                background: #fff3e0;
+                text-align: center;
+                padding: 5px;
+                font-size: 11px;
+                font-weight: 700;
+                color: #8b0000;
+                letter-spacing: 2px;
+            }
+
+            /* Middle section with photo + info */
+            .card-body-section {
+                display: flex;
+                gap: 16px;
+                padding: 16px 18px;
+            }
+
+            /* Student photo */
+            .student-photo {
+                width: 85px;
+                height: 100px;
+                object-fit: cover;
+                border-radius: 8px;
+                border: 2px solid #ddd;
+                flex-shrink: 0;
+            }
+
+            /* No photo placeholder */
+            .no-photo {
+                width: 85px;
+                height: 100px;
+                background: #f0f4f8;
+                border-radius: 8px;
+                border: 2px solid #ddd;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                flex-shrink: 0;
+            }
+
+                .no-photo i {
+                    font-size: 40px;
+                    color: #9fa8da;
+                }
+
+            /* Student info text */
+            .student-info {
+                flex: 1;
+            }
+
+            .student-name {
+                font-size: 15px;
+                font-weight: 700;
+                color: #1a237e;
+                margin-bottom: 4px;
+            }
+
+            /* Roll number pill */
+            .roll-pill {
+                background: #8b0000;
+                color: white;
+                font-size: 10px;
+                font-weight: 700;
+                padding: 2px 10px;
+                border-radius: 20px;
+                display: inline-block;
+                margin-bottom: 8px;
+            }
+
+            /* Each info line */
+            .info-line {
+                font-size: 11px;
+                color: #546e7a;
+                margin-bottom: 4px;
+            }
+
+                .info-line strong {
+                    color: #37474f;
+                }
+
+            /* Bottom strip with mobile and date */
+            .card-bottom {
+                background: #f8f8f8;
+                border-top: 1px solid #eee;
+                padding: 10px 18px;
+                display: flex;
+                justify-content: space-between;
+                font-size: 11px;
+            }
+
+            .strip-item .label {
+                color: #90a4ae;
+                font-weight: 600;
+                text-transform: uppercase;
+                font-size: 9px;
+            }
+
+            .strip-item .value {
+                color: #37474f;
+                font-weight: 700;
+                margin-top: 1px;
+            }
+
+            /* Red footer of card */
+            .card-footer-band {
+                background: #8b0000;
+                color: white;
+                padding: 8px 18px;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                font-size: 10px;
+            }
+
+                .card-footer-band .validity {
+                    opacity: 0.9;
+                }
+
+                .card-footer-band .signature {
+                    text-align: right;
+                    border-top: 1px solid rgba(255,255,255,0.5);
+                    padding-top: 3px;
+                    margin-top: 10px;
+                    opacity: 0.8;
+                }
+
+            /* Buttons below the card */
+            .action-buttons {
+                margin-top: 24px;
+                display: flex;
+                gap: 12px;
+            }
+
+            /* Note below buttons */
+            .print-note {
+                margin-top: 12px;
+                font-size: 12px;
+                color: #90a4ae;
+                text-align: center;
+            }
+
+            /* ── PRINT STYLES ──
+                       When printing, hide everything
+                       except the card itself */
+            @@media print {
+                body {
+                    background: white;
+                    padding: 0;
+                }
+
+                .action-buttons,
+                .print-note,
+                .page-heading {
+                    display: none !important;
+                }
+
+                .id-card {
+                    box-shadow: none;
+                    border: 1px solid #ccc;
+                }
+            }
+    </style>
+</head>
+
+<body>
+
+    <!-- ══════════════════════
+         PAGE HEADING
+         Hidden when printing
+    ══════════════════════ -->
+    <div class="page-heading text-center mb-3">
+        <h5 style="color:#1a237e; font-weight:700;">
+            <i class="bi bi-credit-card me-2"></i>Student ID Card
+        </h5>
+        <small style="color:#90a4ae;">
+            @Model.FullName — @Model.Department
+        </small>
+    </div>
+
+    <!-- ══════════════════════
+         THE ID CARD
+    ══════════════════════ -->
+    <div class="id-card">
+
+        <!-- ─────────────────
+             RED TOP HEADER
+             University name
+        ───────────────── -->
+        <div class="card-top">
+            <div>
+                <div class="college">Lovely Professional University</div>
+                <div class="college-sub">Phagwara, Punjab — 144411</div>
+                <div class="college-sub">www.lpu.in</div>
+            </div>
+            <i class="bi bi-mortarboard-fill"
+               style="font-size:28px; opacity:0.8;"></i>
+        </div>
+
+        <!-- ─────────────────
+             CARD TYPE LABEL
+        ───────────────── -->
+        <div class="card-label">
+            STUDENT IDENTITY CARD
+        </div>
+
+        <!-- ─────────────────
+             PHOTO + DETAILS
+        ───────────────── -->
+        <div class="card-body-section">
+
+            @* Show photo or placeholder *@
+            @if (!string.IsNullOrEmpty(Model.PhotoUrl))
+            {
+                <img src="@Model.PhotoUrl"
+                     class="student-photo"
+                     alt="@Model.FullName" />
+            }
+            else
+            {
+                <div class="no-photo">
+                    <i class="bi bi-person-fill"></i>
+                </div>
+            }
+
+            @* Student info *@
+            <div class="student-info">
+
+                <div class="student-name">@Model.FullName</div>
+
+                <div class="roll-pill">Roll No: @Model.RollNumber</div>
+
+                <div class="info-line">
+                    <strong>Dept:</strong> @Model.Department
+                </div>
+                <div class="info-line">
+                    <strong>Course:</strong> @Model.Course
+                </div>
+                <div class="info-line">
+                    <strong>Year:</strong> @Model.Year
+                </div>
+                <div class="info-line">
+                    <strong>DOB:</strong>
+                    @Model.DateOfBirth.ToString("dd/MM/yyyy")
+                </div>
+                <div class="info-line">
+                    <strong>Gender:</strong> @Model.Gender
+                </div>
+
+            </div>
+        </div>
+
+        <!-- ─────────────────
+             BOTTOM STRIP
+             Mobile + Issue date
+        ───────────────── -->
+        <div class="card-bottom">
+            <div class="strip-item">
+                <div class="label">Mobile</div>
+                <div class="value">@Model.MobileNumber</div>
+            </div>
+            <div class="strip-item">
+                <div class="label">Email</div>
+                <div class="value" style="font-size:10px;">@Model.Email</div>
+            </div>
+            <div class="strip-item">
+                <div class="label">Issue Date</div>
+                <div class="value">@Model.AppliedOn.ToString("MMM yyyy")</div>
+            </div>
+        </div>
+
+        <!-- ─────────────────
+             RED FOOTER
+             Validity + signature
+        ───────────────── -->
+        <div class="card-footer-band">
+            <div class="validity">
+                Valid: Academic Year 2025 — 26
+            </div>
+            <div class="signature">
+                Principal's Signature
+            </div>
+        </div>
+
+    </div>
+    @* End ID Card *@
+
+    <!-- ══════════════════════
+         BUTTONS
+         Hidden when printing
+    ══════════════════════ -->
+    <div class="action-buttons">
+
+        @* Print button — opens print dialog
+           User selects Save as PDF to download *@
+        <button class="btn btn-danger px-4"
+                onclick="window.print()">
+            <i class="bi bi-download me-1"></i>
+            Download / Print
+        </button>
+
+        @* Close this tab *@
+        <a href="javascript:window.close()"
+               class="btn btn-secondary px-4">
+            <i class="bi bi-x-circle me-1"></i> Close
+        </a>
+
+    </div>
+
+    <p class="print-note">
+        <i class="bi bi-info-circle me-1"></i>
+        Click Download → select <strong>Save as PDF</strong>
+        in the print dialog
+    </p>
+
+</body>
+</html>
+```
+

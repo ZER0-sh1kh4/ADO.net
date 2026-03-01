@@ -1,0 +1,11 @@
+C:\Users\SHOBHIT\source\repos\MVC\bin\Debug\net10.0\MVC.deps.json
+C:\Users\SHOBHIT\source\repos\MVC\bin\Debug\net10.0\MVC.dll
+C:\Users\SHOBHIT\source\repos\MVC\bin\Debug\net10.0\MVC.pdb
+C:\Users\SHOBHIT\source\repos\MVC\obj\Debug\net10.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHOBHIT\source\repos\MVC\obj\Debug\net10.0\MVC.AssemblyInfoInputs.cache
+C:\Users\SHOBHIT\source\repos\MVC\obj\Debug\net10.0\MVC.AssemblyInfo.cs
+C:\Users\SHOBHIT\source\repos\MVC\obj\Debug\net10.0\MVC.csproj.CoreCompileInputs.cache
+C:\Users\SHOBHIT\source\repos\MVC\obj\Debug\net10.0\MVC.dll
+C:\Users\SHOBHIT\source\repos\MVC\obj\Debug\net10.0\refint\MVC.dll
+C:\Users\SHOBHIT\source\repos\MVC\obj\Debug\net10.0\MVC.pdb
+C:\Users\SHOBHIT\source\repos\MVC\obj\Debug\net10.0\ref\MVC.dll

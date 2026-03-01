@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SHOBHIT\\source\\repos\\webapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9979EE9D-1A6B-7C50-68E9-BD80DFEEF9FE}|webapp.csproj|c:\\users\\shobhit\\source\\repos\\webapp\\views\\home\\square.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9979EE9D-1A6B-7C50-68E9-BD80DFEEF9FE}|webapp.csproj|solutionrelative:views\\home\\square.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9979EE9D-1A6B-7C50-68E9-BD80DFEEF9FE}|webapp.csproj|c:\\users\\shobhit\\source\\repos\\webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9979EE9D-1A6B-7C50-68E9-BD80DFEEF9FE}|webapp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "square.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\webapp\\Views\\Home\\square.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\square.cshtml",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\webapp\\Views\\Home\\square.cshtml*",
+              "RelativeToolTip": "Views\\Home\\square.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-20T06:12:28.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\webapp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\webapp\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T10:21:35.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

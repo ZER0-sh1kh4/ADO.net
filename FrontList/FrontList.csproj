@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BusnisessList">
+      <HintPath>..\BusnisessList\bin\Debug\net10.0\BusnisessList.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

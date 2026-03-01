@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/AAdo/">
+    <Project Path="../Day 1/Day 1.csproj" />
+    <Project Path="ado.csproj" />
+  </Folder>
+</Solution>

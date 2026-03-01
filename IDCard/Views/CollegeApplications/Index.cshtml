@@ -1,0 +1,389 @@
+﻿@* This tells the view which data to expect — a list of CollegeApplication objects *@
+@model IEnumerable<IDCard.Models.CollegeApplication>
+
+@* Page title shown in browser tab *@
+@{
+    ViewData["Title"] = "Home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- ═══════════════════════════════════════
+     BOOTSTRAP & ICONS — styling libraries
+     loaded from internet (CDN)
+════════════════════════════════════════ -->
+<link rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" />
+<link rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" />
+
+<!-- ═══════════════════════════════════════
+     CSS — all the styling for this page
+════════════════════════════════════════ -->
+<style>
+
+    /* Overall page background and font */
+    body {
+        background-color: #f0f4f8;
+        font-family: 'Segoe UI', sans-serif;
+    }
+
+    /* ── HEADER BANNER at top of page ── */
+    .site-header {
+        background: linear-gradient(135deg, #6a0000, #a50000); /* LPU dark red */
+        color: white;
+        padding: 16px 32px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 0;
+    }
+
+        .site-header .logo-text {
+            font-size: 22px;
+            font-weight: 800;
+            letter-spacing: 1px;
+        }
+
+        .site-header .logo-sub {
+            font-size: 11px;
+            opacity: 0.8;
+            margin-top: 2px;
+        }
+
+        .site-header .header-right {
+            font-size: 13px;
+            opacity: 0.85;
+            text-align: right;
+        }
+
+    /* ── PAGE TITLE SECTION below header ── */
+    .page-banner {
+        background: linear-gradient(135deg, #1a237e, #283593); /* dark blue */
+        color: white;
+        padding: 28px 40px;
+        margin-bottom: 32px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+        .page-banner h2 {
+            font-size: 26px;
+            font-weight: 700;
+            margin: 0 0 4px 0;
+        }
+
+        .page-banner p {
+            font-size: 13px;
+            opacity: 0.8;
+            margin: 0;
+        }
+
+    /* ── NEW APPLICATION button in banner ── */
+    .btn-new {
+        background: white;
+        color: #1a237e;
+        font-weight: 600;
+        border: none;
+        padding: 10px 22px;
+        border-radius: 10px;
+        text-decoration: none;
+        white-space: nowrap;
+        transition: background 0.2s;
+    }
+
+        .btn-new:hover {
+            background: #e8eaf6;
+            color: #1a237e;
+        }
+
+    /* ── PROFILE CARD for each student ── */
+    .profile-card {
+        background: white;
+        border: none;
+        border-radius: 16px;
+        box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+        overflow: hidden;
+        transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+        /* Card lifts up when you hover on it */
+        .profile-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 24px rgba(0,0,0,0.14);
+        }
+
+        /* Student photo at top of card */
+        .profile-card .card-img-top {
+            height: 190px;
+            object-fit: cover; /* crops image to fit nicely */
+        }
+
+    /* Grey box shown when no photo uploaded */
+    .photo-placeholder {
+        height: 190px;
+        background: linear-gradient(135deg, #e8eaf6, #c5cae9);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+        .photo-placeholder i {
+            font-size: 68px;
+            color: #9fa8da;
+        }
+
+    /* Student name inside card */
+    .student-name {
+        font-size: 16px;
+        font-weight: 700;
+        color: #1a237e;
+        margin-bottom: 6px;
+    }
+
+    /* Each info line (roll no, course etc) */
+    .student-info {
+        font-size: 13px;
+        color: #607d8b;
+        margin-bottom: 3px;
+    }
+
+        .student-info i {
+            width: 16px;
+            color: #9fa8da;
+        }
+
+    /* Department badge (coloured pill) */
+    .badge-dept {
+        background: #e8eaf6;
+        color: #3949ab;
+        font-size: 11px;
+        font-weight: 600;
+        padding: 3px 10px;
+        border-radius: 20px;
+        display: inline-block;
+        margin-bottom: 8px;
+    }
+
+    /* Bottom buttons on each card */
+    .card-footer-actions {
+        padding: 12px 14px 14px;
+        background: white;
+        display: flex;
+        gap: 6px;
+    }
+
+        .card-footer-actions .btn {
+            flex: 1;
+            font-size: 12px;
+            font-weight: 500;
+            border-radius: 8px;
+            padding: 6px 0;
+        }
+
+    /* ── EMPTY STATE — shown when no students added yet ── */
+    .empty-state {
+        text-align: center;
+        padding: 80px 20px;
+        background: white;
+        border-radius: 16px;
+        box-shadow: 0 4px 16px rgba(0,0,0,0.06);
+    }
+
+        .empty-state i {
+            font-size: 60px;
+            color: #c5cae9;
+        }
+
+        .empty-state h4 {
+            color: #37474f;
+            margin-top: 16px;
+            font-weight: 600;
+        }
+
+        .empty-state p {
+            color: #90a4ae;
+            font-size: 14px;
+        }
+
+    /* ── FOOTER at bottom of page ── */
+    .site-footer {
+        background: #1a1a2e;
+        color: rgba(255,255,255,0.7);
+        text-align: center;
+        padding: 20px;
+        margin-top: 60px;
+        font-size: 13px;
+    }
+
+        .site-footer strong {
+            color: white;
+        }
+
+</style>
+
+
+<!-- ═══════════════════════════════════════
+     HEADER — shown at top of every page
+     Has university name + tagline
+════════════════════════════════════════ -->
+<div class="site-header">
+    <div>
+        <div class="logo-text">
+            <i class="bi bi-mortarboard-fill me-2"></i>LPU
+        </div>
+        <div class="logo-sub">Lovely Professional University</div>
+    </div>
+    <div class="header-right">
+        Student ID Card Management System<br />
+        <small>Phagwara, Punjab — 144411</small>
+    </div>
+</div>
+
+
+<!-- ═══════════════════════════════════════
+     PAGE BANNER — blue section with title
+     and the New Application button
+════════════════════════════════════════ -->
+<div class="page-banner">
+    <div>
+        <h2>
+            <i class="bi bi-person-badge me-2"></i>College ID Applications
+        </h2>
+        <p>View, manage and generate ID cards for all students</p>
+    </div>
+    @* This link goes to the Create page *@
+    <a asp-action="Create" class="btn-new">
+        <i class="bi bi-plus-circle me-1"></i> New Application
+    </a>
+</div>
+
+
+<!-- ═══════════════════════════════════════
+     MAIN CONTENT — student cards
+════════════════════════════════════════ -->
+<div class="container pb-5">
+
+    @* Show total count only if there are students *@
+    @if (Model.Any())
+    {
+        <p class="text-muted mb-3" style="font-size:14px;">
+            Showing <strong>@Model.Count()</strong> application(s)
+        </p>
+    }
+
+    @* ── EMPTY STATE ──
+       Shown when no students have been added yet *@
+    @if (!Model.Any())
+    {
+        <div class="empty-state">
+            <i class="bi bi-inbox"></i>
+            <h4>No Applications Yet</h4>
+            <p>Use the <strong>New Application</strong> button above to add the first student.</p>
+        </div>
+    }
+    else
+    {
+        @* ── STUDENT CARDS GRID ──
+           Loop through every student and show a card
+           col-xl-3 = 4 cards per row on large screen
+           col-lg-4 = 3 cards per row on medium screen
+           col-md-6 = 2 cards per row on tablet
+           col-sm-12 = 1 card per row on mobile *@
+        <div class="row g-4">
+            @foreach (var item in Model)
+            {
+                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
+                    <div class="profile-card h-100">
+
+                        @* ── PHOTO SECTION ──
+                           Show uploaded photo OR grey placeholder *@
+                        @if (!string.IsNullOrEmpty(item.PhotoUrl))
+                        {
+                            <img src="@item.PhotoUrl"
+                                 class="card-img-top"
+                                 alt="@item.FullName" />
+                        }
+                        else
+                        {
+                            <div class="photo-placeholder">
+                                <i class="bi bi-person-circle"></i>
+                            </div>
+                        }
+
+                        @* ── STUDENT INFO ── *@
+                        <div class="card-body" style="padding:14px 16px 8px;">
+
+                            <div class="student-name">@item.FullName</div>
+
+                            @* Department shown as a coloured pill *@
+                            <span class="badge-dept">@item.Department</span>
+
+                            <div class="student-info">
+                                <i class="bi bi-hash"></i>
+                                Roll No: <strong>@item.RollNumber</strong>
+                            </div>
+                            <div class="student-info">
+                                <i class="bi bi-mortarboard"></i>
+                                @item.Course — @item.Year
+                            </div>
+                            <div class="student-info">
+                                <i class="bi bi-telephone"></i>
+                                @item.MobileNumber
+                            </div>
+                            <div class="student-info">
+                                <i class="bi bi-envelope"></i>
+                                @item.Email
+                            </div>
+                            <div class="student-info">
+                                <i class="bi bi-calendar3"></i>
+                                @item.DateOfBirth.ToString("dd MMM yyyy")
+                            </div>
+
+                        </div>
+
+                        @* ── ACTION BUTTONS ──
+                           Details = view full profile
+                           Edit    = update information
+                           Delete  = remove student *@
+                        <div class="card-footer-actions">
+                            <a asp-action="Details"
+                                   asp-route-id="@item.Id"
+                                   class="btn btn-outline-info">
+                                <i class="bi bi-eye"></i> Details
+                            </a>
+                            <a asp-action="Edit"
+                                   asp-route-id="@item.Id"
+                                   class="btn btn-outline-warning">
+                                <i class="bi bi-pencil"></i> Edit
+                            </a>
+                            <a asp-action="Delete"
+                                   asp-route-id="@item.Id"
+                                   class="btn btn-outline-danger">
+                                <i class="bi bi-trash"></i> Delete
+                            </a>
+                        </div>
+
+                    </div>
+                </div>
+            }
+        </div>
+    }
+
+</div>
+
+
+<!-- ═══════════════════════════════════════
+     FOOTER — shown at bottom of page
+════════════════════════════════════════ -->
+<div class="site-footer">
+    <strong>Lovely Professional University</strong> — Student ID Card System<br />
+    Phagwara, Punjab 144411 &nbsp;|&nbsp; www.lpu.in<br />
+    <small>© @DateTime.Now.Year LPU. All rights reserved.</small>
+</div>
+
+
+<!-- Bootstrap JS — needed for dropdowns, modals etc -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+```
+

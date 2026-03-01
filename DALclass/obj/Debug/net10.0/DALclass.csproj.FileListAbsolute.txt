@@ -1,0 +1,11 @@
+C:\Users\SHOBHIT\source\repos\DALclass\bin\Debug\net10.0\DALclass.deps.json
+C:\Users\SHOBHIT\source\repos\DALclass\bin\Debug\net10.0\DALclass.dll
+C:\Users\SHOBHIT\source\repos\DALclass\bin\Debug\net10.0\DALclass.pdb
+C:\Users\SHOBHIT\source\repos\DALclass\obj\Debug\net10.0\DALclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHOBHIT\source\repos\DALclass\obj\Debug\net10.0\DALclass.AssemblyInfoInputs.cache
+C:\Users\SHOBHIT\source\repos\DALclass\obj\Debug\net10.0\DALclass.AssemblyInfo.cs
+C:\Users\SHOBHIT\source\repos\DALclass\obj\Debug\net10.0\DALclass.csproj.CoreCompileInputs.cache
+C:\Users\SHOBHIT\source\repos\DALclass\obj\Debug\net10.0\DALclass.dll
+C:\Users\SHOBHIT\source\repos\DALclass\obj\Debug\net10.0\refint\DALclass.dll
+C:\Users\SHOBHIT\source\repos\DALclass\obj\Debug\net10.0\DALclass.pdb
+C:\Users\SHOBHIT\source\repos\DALclass\obj\Debug\net10.0\ref\DALclass.dll

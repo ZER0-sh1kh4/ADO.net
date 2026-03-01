@@ -1,0 +1,14 @@
+C:\Users\SHOBHIT\source\repos\MSIsecond\bin\Debug\net10.0\MSIsecond.exe
+C:\Users\SHOBHIT\source\repos\MSIsecond\bin\Debug\net10.0\MSIsecond.deps.json
+C:\Users\SHOBHIT\source\repos\MSIsecond\bin\Debug\net10.0\MSIsecond.runtimeconfig.json
+C:\Users\SHOBHIT\source\repos\MSIsecond\bin\Debug\net10.0\MSIsecond.dll
+C:\Users\SHOBHIT\source\repos\MSIsecond\bin\Debug\net10.0\MSIsecond.pdb
+C:\Users\SHOBHIT\source\repos\MSIsecond\obj\Debug\net10.0\MSIsecond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHOBHIT\source\repos\MSIsecond\obj\Debug\net10.0\MSIsecond.AssemblyInfoInputs.cache
+C:\Users\SHOBHIT\source\repos\MSIsecond\obj\Debug\net10.0\MSIsecond.AssemblyInfo.cs
+C:\Users\SHOBHIT\source\repos\MSIsecond\obj\Debug\net10.0\MSIsecond.csproj.CoreCompileInputs.cache
+C:\Users\SHOBHIT\source\repos\MSIsecond\obj\Debug\net10.0\MSIsecond.dll
+C:\Users\SHOBHIT\source\repos\MSIsecond\obj\Debug\net10.0\refint\MSIsecond.dll
+C:\Users\SHOBHIT\source\repos\MSIsecond\obj\Debug\net10.0\MSIsecond.pdb
+C:\Users\SHOBHIT\source\repos\MSIsecond\obj\Debug\net10.0\MSIsecond.genruntimeconfig.cache
+C:\Users\SHOBHIT\source\repos\MSIsecond\obj\Debug\net10.0\ref\MSIsecond.dll

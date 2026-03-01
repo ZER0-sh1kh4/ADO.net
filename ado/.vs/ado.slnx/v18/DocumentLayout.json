@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SHOBHIT\\source\\repos\\ado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72999304-138B-404D-931F-8A3530D089B6}|..\\Day 1\\Day 1.csproj|c:\\users\\shobhit\\source\\repos\\day 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DE22D6-1B9B-41D3-8993-11C3FEC5703D}|ado.csproj|c:\\users\\shobhit\\source\\repos\\ado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DE22D6-1B9B-41D3-8993-11C3FEC5703D}|ado.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72999304-138B-404D-931F-8A3530D089B6}|..\\Day 1\\Day 1.csproj|c:\\users\\shobhit\\source\\repos\\day 1\\day 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DE22D6-1B9B-41D3-8993-11C3FEC5703D}|ado.csproj|c:\\users\\shobhit\\source\\repos\\ado\\ado.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D3DE22D6-1B9B-41D3-8993-11C3FEC5703D}|ado.csproj|solutionrelative:ado.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Day 1",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\Day 1\\Day 1.csproj",
+              "RelativeDocumentMoniker": "..\\Day 1\\Day 1.csproj",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\Day 1\\Day 1.csproj",
+              "RelativeToolTip": "..\\Day 1\\Day 1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-06T05:54:09.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ado",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\ado\\ado.csproj",
+              "RelativeDocumentMoniker": "ado.csproj",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\ado\\ado.csproj",
+              "RelativeToolTip": "ado.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-06T04:02:31.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\ado\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\ado\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T04:00:46.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\Day 1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day 1\\Program.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\Day 1\\Program.cs",
+              "RelativeToolTip": "..\\Day 1\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T05:53:54.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

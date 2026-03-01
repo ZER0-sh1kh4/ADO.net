@@ -1,0 +1,24 @@
+﻿@model IEnumerable<mvc_ado.net.Models.Student>
+
+<h2>Students List</h2>
+
+<table border="1" cellpadding="8">
+    <tr>
+        <th>ID</th>
+        <th>Title</th>
+        <th>Author</th>
+        <th>Code</th>
+        <th>Square</th>
+    </tr>
+
+    @foreach (var s in Model)
+    {
+        <tr>
+            <td>@s.Id</td>
+            <td>@s.Title</td>
+            <td>@s.Author</td>
+            <td>@s.Code</td>
+            <td>@s.Square </td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SHOBHIT\\source\\repos\\mvcLogger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84B131B5-9307-99C4-3537-0E2FA385432D}|mvcLogger.csproj|c:\\users\\shobhit\\source\\repos\\mvclogger\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B131B5-9307-99C4-3537-0E2FA385432D}|mvcLogger.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B131B5-9307-99C4-3537-0E2FA385432D}|mvcLogger.csproj|c:\\users\\shobhit\\source\\repos\\mvclogger\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84B131B5-9307-99C4-3537-0E2FA385432D}|mvcLogger.csproj|solutionrelative:views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B131B5-9307-99C4-3537-0E2FA385432D}|mvcLogger.csproj|c:\\users\\shobhit\\source\\repos\\mvclogger\\views\\home\\myname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84B131B5-9307-99C4-3537-0E2FA385432D}|mvcLogger.csproj|solutionrelative:views\\home\\myname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B131B5-9307-99C4-3537-0E2FA385432D}|mvcLogger.csproj|c:\\users\\shobhit\\source\\repos\\mvclogger\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B131B5-9307-99C4-3537-0E2FA385432D}|mvcLogger.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B131B5-9307-99C4-3537-0E2FA385432D}|mvcLogger.csproj|c:\\users\\shobhit\\source\\repos\\mvclogger\\views\\home\\square.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84B131B5-9307-99C4-3537-0E2FA385432D}|mvcLogger.csproj|solutionrelative:views\\home\\square.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B131B5-9307-99C4-3537-0E2FA385432D}|mvcLogger.csproj|c:\\users\\shobhit\\source\\repos\\mvclogger\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{84B131B5-9307-99C4-3537-0E2FA385432D}|mvcLogger.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "myname.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\mvcLogger\\Views\\Home\\myname.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\myname.cshtml",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\mvcLogger\\Views\\Home\\myname.cshtml",
+              "RelativeToolTip": "Views\\Home\\myname.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-21T07:19:11.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "square.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\mvcLogger\\Views\\Home\\square.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\square.cshtml",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\mvcLogger\\Views\\Home\\square.cshtml",
+              "RelativeToolTip": "Views\\Home\\square.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-21T06:58:45.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\mvcLogger\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\mvcLogger\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIA8wBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T06:39:17.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\mvcLogger\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\mvcLogger\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-21T05:26:44.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\mvcLogger\\Views\\Home\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Error.cshtml",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\mvcLogger\\Views\\Home\\Error.cshtml",
+              "RelativeToolTip": "Views\\Home\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-21T05:13:40.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\mvcLogger\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\mvcLogger\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T05:06:15.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

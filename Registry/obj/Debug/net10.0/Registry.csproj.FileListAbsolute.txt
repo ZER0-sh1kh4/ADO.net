@@ -1,0 +1,14 @@
+C:\Users\SHOBHIT\source\repos\Registry\bin\Debug\net10.0\Registry.exe
+C:\Users\SHOBHIT\source\repos\Registry\bin\Debug\net10.0\Registry.deps.json
+C:\Users\SHOBHIT\source\repos\Registry\bin\Debug\net10.0\Registry.runtimeconfig.json
+C:\Users\SHOBHIT\source\repos\Registry\bin\Debug\net10.0\Registry.dll
+C:\Users\SHOBHIT\source\repos\Registry\bin\Debug\net10.0\Registry.pdb
+C:\Users\SHOBHIT\source\repos\Registry\obj\Debug\net10.0\Registry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHOBHIT\source\repos\Registry\obj\Debug\net10.0\Registry.AssemblyInfoInputs.cache
+C:\Users\SHOBHIT\source\repos\Registry\obj\Debug\net10.0\Registry.AssemblyInfo.cs
+C:\Users\SHOBHIT\source\repos\Registry\obj\Debug\net10.0\Registry.csproj.CoreCompileInputs.cache
+C:\Users\SHOBHIT\source\repos\Registry\obj\Debug\net10.0\Registry.dll
+C:\Users\SHOBHIT\source\repos\Registry\obj\Debug\net10.0\refint\Registry.dll
+C:\Users\SHOBHIT\source\repos\Registry\obj\Debug\net10.0\Registry.pdb
+C:\Users\SHOBHIT\source\repos\Registry\obj\Debug\net10.0\Registry.genruntimeconfig.cache
+C:\Users\SHOBHIT\source\repos\Registry\obj\Debug\net10.0\ref\Registry.dll

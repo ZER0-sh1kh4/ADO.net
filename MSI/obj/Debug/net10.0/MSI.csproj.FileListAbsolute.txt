@@ -1,0 +1,14 @@
+C:\Users\SHOBHIT\source\repos\MSI\bin\Debug\net10.0\MSI.exe
+C:\Users\SHOBHIT\source\repos\MSI\bin\Debug\net10.0\MSI.deps.json
+C:\Users\SHOBHIT\source\repos\MSI\bin\Debug\net10.0\MSI.runtimeconfig.json
+C:\Users\SHOBHIT\source\repos\MSI\bin\Debug\net10.0\MSI.dll
+C:\Users\SHOBHIT\source\repos\MSI\bin\Debug\net10.0\MSI.pdb
+C:\Users\SHOBHIT\source\repos\MSI\obj\Debug\net10.0\MSI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHOBHIT\source\repos\MSI\obj\Debug\net10.0\MSI.AssemblyInfoInputs.cache
+C:\Users\SHOBHIT\source\repos\MSI\obj\Debug\net10.0\MSI.AssemblyInfo.cs
+C:\Users\SHOBHIT\source\repos\MSI\obj\Debug\net10.0\MSI.csproj.CoreCompileInputs.cache
+C:\Users\SHOBHIT\source\repos\MSI\obj\Debug\net10.0\MSI.dll
+C:\Users\SHOBHIT\source\repos\MSI\obj\Debug\net10.0\refint\MSI.dll
+C:\Users\SHOBHIT\source\repos\MSI\obj\Debug\net10.0\MSI.pdb
+C:\Users\SHOBHIT\source\repos\MSI\obj\Debug\net10.0\MSI.genruntimeconfig.cache
+C:\Users\SHOBHIT\source\repos\MSI\obj\Debug\net10.0\ref\MSI.dll

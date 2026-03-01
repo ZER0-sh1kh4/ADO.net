@@ -1,0 +1,14 @@
+C:\Users\SHOBHIT\source\repos\Tester\Caluculator\bin\Debug\net10.0\Caluculator.exe
+C:\Users\SHOBHIT\source\repos\Tester\Caluculator\bin\Debug\net10.0\Caluculator.deps.json
+C:\Users\SHOBHIT\source\repos\Tester\Caluculator\bin\Debug\net10.0\Caluculator.runtimeconfig.json
+C:\Users\SHOBHIT\source\repos\Tester\Caluculator\bin\Debug\net10.0\Caluculator.dll
+C:\Users\SHOBHIT\source\repos\Tester\Caluculator\bin\Debug\net10.0\Caluculator.pdb
+C:\Users\SHOBHIT\source\repos\Tester\Caluculator\obj\Debug\net10.0\Caluculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHOBHIT\source\repos\Tester\Caluculator\obj\Debug\net10.0\Caluculator.AssemblyInfoInputs.cache
+C:\Users\SHOBHIT\source\repos\Tester\Caluculator\obj\Debug\net10.0\Caluculator.AssemblyInfo.cs
+C:\Users\SHOBHIT\source\repos\Tester\Caluculator\obj\Debug\net10.0\Caluculator.csproj.CoreCompileInputs.cache
+C:\Users\SHOBHIT\source\repos\Tester\Caluculator\obj\Debug\net10.0\Caluculator.dll
+C:\Users\SHOBHIT\source\repos\Tester\Caluculator\obj\Debug\net10.0\refint\Caluculator.dll
+C:\Users\SHOBHIT\source\repos\Tester\Caluculator\obj\Debug\net10.0\Caluculator.pdb
+C:\Users\SHOBHIT\source\repos\Tester\Caluculator\obj\Debug\net10.0\Caluculator.genruntimeconfig.cache
+C:\Users\SHOBHIT\source\repos\Tester\Caluculator\obj\Debug\net10.0\ref\Caluculator.dll

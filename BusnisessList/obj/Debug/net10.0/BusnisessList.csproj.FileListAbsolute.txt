@@ -1,0 +1,15 @@
+C:\Users\SHOBHIT\source\repos\BusnisessList\obj\Debug\net10.0\BusnisessList.csproj.AssemblyReference.cache
+C:\Users\SHOBHIT\source\repos\BusnisessList\obj\Debug\net10.0\BusnisessList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHOBHIT\source\repos\BusnisessList\obj\Debug\net10.0\BusnisessList.AssemblyInfoInputs.cache
+C:\Users\SHOBHIT\source\repos\BusnisessList\obj\Debug\net10.0\BusnisessList.AssemblyInfo.cs
+C:\Users\SHOBHIT\source\repos\BusnisessList\obj\Debug\net10.0\BusnisessList.csproj.CoreCompileInputs.cache
+C:\Users\SHOBHIT\source\repos\BusnisessList\bin\Debug\net10.0\BusnisessList.deps.json
+C:\Users\SHOBHIT\source\repos\BusnisessList\bin\Debug\net10.0\BusnisessList.dll
+C:\Users\SHOBHIT\source\repos\BusnisessList\bin\Debug\net10.0\BusnisessList.pdb
+C:\Users\SHOBHIT\source\repos\BusnisessList\bin\Debug\net10.0\DALclass.dll
+C:\Users\SHOBHIT\source\repos\BusnisessList\bin\Debug\net10.0\DALclass.pdb
+C:\Users\SHOBHIT\source\repos\BusnisessList\obj\Debug\net10.0\Busnises.3B411FDC.Up2Date
+C:\Users\SHOBHIT\source\repos\BusnisessList\obj\Debug\net10.0\BusnisessList.dll
+C:\Users\SHOBHIT\source\repos\BusnisessList\obj\Debug\net10.0\refint\BusnisessList.dll
+C:\Users\SHOBHIT\source\repos\BusnisessList\obj\Debug\net10.0\BusnisessList.pdb
+C:\Users\SHOBHIT\source\repos\BusnisessList\obj\Debug\net10.0\ref\BusnisessList.dll

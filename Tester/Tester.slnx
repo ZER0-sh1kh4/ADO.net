@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Source/">
+    <Project Path="Caluculator/Age.csproj" />
+  </Folder>
+  <Folder Name="/Testing/">
+    <Project Path="TestingCalculator/TestingAge.csproj" />
+  </Folder>
+</Solution>
