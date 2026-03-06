@@ -1,0 +1,18 @@
+﻿@model IEnumerable<Datab>
+
+<table>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+        </tr>
+    }
+</table>
+
+@if (ViewBag.Page > 0)
+{
+    <a href="/Datab/Index?page=@(ViewBag.Page - 1)">Previous</a>
+}
+
+<a href="/Datab/Index?page=@(ViewBag.Page + 1)">Next</a>

@@ -1,0 +1,15 @@
+C:\Users\SHOBHIT\source\repos\ListIList\bin\Debug\net10.0\ListIList.exe
+C:\Users\SHOBHIT\source\repos\ListIList\bin\Debug\net10.0\ListIList.deps.json
+C:\Users\SHOBHIT\source\repos\ListIList\bin\Debug\net10.0\ListIList.runtimeconfig.json
+C:\Users\SHOBHIT\source\repos\ListIList\bin\Debug\net10.0\ListIList.dll
+C:\Users\SHOBHIT\source\repos\ListIList\bin\Debug\net10.0\ListIList.pdb
+C:\Users\SHOBHIT\source\repos\ListIList\obj\Debug\net10.0\ListIList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHOBHIT\source\repos\ListIList\obj\Debug\net10.0\ListIList.AssemblyInfoInputs.cache
+C:\Users\SHOBHIT\source\repos\ListIList\obj\Debug\net10.0\ListIList.AssemblyInfo.cs
+C:\Users\SHOBHIT\source\repos\ListIList\obj\Debug\net10.0\ListIList.csproj.CoreCompileInputs.cache
+C:\Users\SHOBHIT\source\repos\ListIList\obj\Debug\net10.0\ListIList.sourcelink.json
+C:\Users\SHOBHIT\source\repos\ListIList\obj\Debug\net10.0\ListIList.dll
+C:\Users\SHOBHIT\source\repos\ListIList\obj\Debug\net10.0\refint\ListIList.dll
+C:\Users\SHOBHIT\source\repos\ListIList\obj\Debug\net10.0\ListIList.pdb
+C:\Users\SHOBHIT\source\repos\ListIList\obj\Debug\net10.0\ListIList.genruntimeconfig.cache
+C:\Users\SHOBHIT\source\repos\ListIList\obj\Debug\net10.0\ref\ListIList.dll

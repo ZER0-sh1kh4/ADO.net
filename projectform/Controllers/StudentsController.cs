@@ -1,12 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using projectform.Data;
 using projectform.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace projectform.Controllers
 {
@@ -19,79 +20,78 @@ namespace projectform.Controllers
             _context = context;
         }
 
+        public IActionResult Create(string name, float age, string city)
+        {
+            var student = new Student
+            {
+                Name = name,
+                Age = age,
+                City = city
+            };
+
+            _context.Students.Add(student);
+            _context.SaveChanges();
+
+
+            return Content("Student Created Successfully");
+        }
         // GET: Students
-        public async Task<IActionResult> Index()
+        public IActionResult GetAll()
         {
-            return View(await _context.Students.ToListAsync());
-        }
+            var students = _context.Students.ToList();
+            StringBuilder sb = new StringBuilder();
 
-        // GET: Students/Details/5
-        public async Task<IActionResult> Details(int? id)
-        {
-            if (id == null)
+            foreach (var s in students)
             {
-                return NotFound();
+                sb.Append($"{s.Id} - {s.Name} - {s.Age} - {s.City} <br>");
             }
 
-            var student = await _context.Students
-                .FirstOrDefaultAsync(m => m.Id == id);
+            return Content(sb.ToString(), "text/html");
+        }
+
+
+        //Students/Details/1
+        public IActionResult Details(int id)
+        {
+            var s = _context.Students.Find(id);
+
+            if (s == null)
+                return Content("Student not found");
+
+            return Content($"{s.Id} - {s.Name} - {s.Age} - {s.City}");
+        }
+        public IActionResult Delete(int id)
+        {
+            var student = _context.Students.Find(id);
+
             if (student == null)
-            {
-                return NotFound();
-            }
+                return Content("Student not found");
 
-            return View(student);
+            _context.Students.Remove(student);
+            _context.SaveChanges();
+
+            return Content("Student Deleted Successfully");
         }
-
-        // GET: Students/Create
-        public IActionResult Create()
-        {
-            return View();
-        }
-
-        // POST: Students/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,Age,City")] Student student)
-        {
-            if (ModelState.IsValid)
-            {
-                _context.Add(student);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
-            }
-            return View(student);
-        }
-
         // GET: Students/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
-            {
                 return NotFound();
-            }
 
             var student = await _context.Students.FindAsync(id);
+
             if (student == null)
-            {
                 return NotFound();
-            }
+
             return View(student);
         }
-
         // POST: Students/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Age,City")] Student student)
+        public async Task<IActionResult> Edit(int id, Student student)
         {
             if (id != student.Id)
-            {
                 return NotFound();
-            }
 
             if (ModelState.IsValid)
             {
@@ -102,56 +102,41 @@ namespace projectform.Controllers
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!StudentExists(student.Id))
-                    {
+                    if (!_context.Students.Any(e => e.Id == student.Id))
                         return NotFound();
-                    }
                     else
-                    {
                         throw;
-                    }
                 }
+
                 return RedirectToAction(nameof(Index));
             }
-            return View(student);
-        }
-
-        // GET: Students/Delete/5
-        public async Task<IActionResult> Delete(int? id)
-        {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
-            var student = await _context.Students
-                .FirstOrDefaultAsync(m => m.Id == id);
-            if (student == null)
-            {
-                return NotFound();
-            }
 
             return View(student);
         }
 
-        // POST: Students/Delete/5
-        [HttpPost, ActionName("Delete")]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(int id)
-        {
-            var student = await _context.Students.FindAsync(id);
-            if (student != null)
-            {
-                _context.Students.Remove(student);
-            }
 
-            await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
-        }
-
-        private bool StudentExists(int id)
+        public async Task<IActionResult> Index()
         {
-            return _context.Students.Any(e => e.Id == id);
+            return View(await _context.Students.ToListAsync());
         }
+        // GET: Students/Details/5
+        //public async Task<IActionResult> Details(int? id)
+        //{
+        //    if (id == null)
+        //    {
+        //        return NotFound();
+        //    }
+
+        //    var student = await _context.Students
+        //        .FirstOrDefaultAsync(m => m.Id == id);
+
+        //    if (student == null)
+        //    {
+        //        return NotFound();
+        //    }
+
+        //    return View(student);
+        //}
+
     }
 }

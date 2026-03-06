@@ -1,0 +1,15 @@
+C:\Users\SHOBHIT\source\repos\TestMethods\bin\Debug\net10.0\TestMethods.exe
+C:\Users\SHOBHIT\source\repos\TestMethods\bin\Debug\net10.0\TestMethods.deps.json
+C:\Users\SHOBHIT\source\repos\TestMethods\bin\Debug\net10.0\TestMethods.runtimeconfig.json
+C:\Users\SHOBHIT\source\repos\TestMethods\bin\Debug\net10.0\TestMethods.dll
+C:\Users\SHOBHIT\source\repos\TestMethods\bin\Debug\net10.0\TestMethods.pdb
+C:\Users\SHOBHIT\source\repos\TestMethods\obj\Debug\net10.0\TestMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHOBHIT\source\repos\TestMethods\obj\Debug\net10.0\TestMethods.AssemblyInfoInputs.cache
+C:\Users\SHOBHIT\source\repos\TestMethods\obj\Debug\net10.0\TestMethods.AssemblyInfo.cs
+C:\Users\SHOBHIT\source\repos\TestMethods\obj\Debug\net10.0\TestMethods.csproj.CoreCompileInputs.cache
+C:\Users\SHOBHIT\source\repos\TestMethods\obj\Debug\net10.0\TestMethods.sourcelink.json
+C:\Users\SHOBHIT\source\repos\TestMethods\obj\Debug\net10.0\TestMethods.dll
+C:\Users\SHOBHIT\source\repos\TestMethods\obj\Debug\net10.0\refint\TestMethods.dll
+C:\Users\SHOBHIT\source\repos\TestMethods\obj\Debug\net10.0\TestMethods.pdb
+C:\Users\SHOBHIT\source\repos\TestMethods\obj\Debug\net10.0\TestMethods.genruntimeconfig.cache
+C:\Users\SHOBHIT\source\repos\TestMethods\obj\Debug\net10.0\ref\TestMethods.dll

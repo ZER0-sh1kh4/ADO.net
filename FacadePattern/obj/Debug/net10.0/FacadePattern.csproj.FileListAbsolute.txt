@@ -1,0 +1,15 @@
+C:\Users\SHOBHIT\source\repos\FacadePattern\obj\Debug\net10.0\FacadePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHOBHIT\source\repos\FacadePattern\obj\Debug\net10.0\FacadePattern.AssemblyInfoInputs.cache
+C:\Users\SHOBHIT\source\repos\FacadePattern\obj\Debug\net10.0\FacadePattern.AssemblyInfo.cs
+C:\Users\SHOBHIT\source\repos\FacadePattern\obj\Debug\net10.0\FacadePattern.csproj.CoreCompileInputs.cache
+C:\Users\SHOBHIT\source\repos\FacadePattern\obj\Debug\net10.0\FacadePattern.sourcelink.json
+C:\Users\SHOBHIT\source\repos\FacadePattern\bin\Debug\net10.0\FacadePattern.exe
+C:\Users\SHOBHIT\source\repos\FacadePattern\bin\Debug\net10.0\FacadePattern.deps.json
+C:\Users\SHOBHIT\source\repos\FacadePattern\bin\Debug\net10.0\FacadePattern.runtimeconfig.json
+C:\Users\SHOBHIT\source\repos\FacadePattern\bin\Debug\net10.0\FacadePattern.dll
+C:\Users\SHOBHIT\source\repos\FacadePattern\bin\Debug\net10.0\FacadePattern.pdb
+C:\Users\SHOBHIT\source\repos\FacadePattern\obj\Debug\net10.0\FacadePattern.dll
+C:\Users\SHOBHIT\source\repos\FacadePattern\obj\Debug\net10.0\refint\FacadePattern.dll
+C:\Users\SHOBHIT\source\repos\FacadePattern\obj\Debug\net10.0\FacadePattern.pdb
+C:\Users\SHOBHIT\source\repos\FacadePattern\obj\Debug\net10.0\FacadePattern.genruntimeconfig.cache
+C:\Users\SHOBHIT\source\repos\FacadePattern\obj\Debug\net10.0\ref\FacadePattern.dll

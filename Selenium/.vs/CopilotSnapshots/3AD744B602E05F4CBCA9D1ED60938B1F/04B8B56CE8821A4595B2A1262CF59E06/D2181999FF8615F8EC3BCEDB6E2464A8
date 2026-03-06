@@ -1,0 +1,74 @@
+﻿using AventStack.ExtentReports;
+using AventStack.ExtentReports.Reporter;
+using OpenQA.Selenium;
+using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Support.UI;
+using System;
+using System.Collections.Generic;
+using System.Text;
+using NUnit.Framework;
+
+
+namespace Selenium
+{
+    public class LoginTest
+    {
+        IWebDriver driver;
+        ExtentReports extent;
+        ExtentTest test=null;
+
+        [OneTimeSetUp]
+        public void SetupReporting()
+        {
+            var htmlReporter = new ExtentSparkReporter("TestReport.html");
+            extent = new ExtentReports();
+            extent.AttachReporter(htmlReporter);
+        }
+        [SetUp]
+        public void StartBrowser()
+        {
+            driver = new ChromeDriver(@"C:\WebDrivers"); // Update path
+            driver.Manage().Window.Maximize();
+            driver.Navigate().GoToUrl("https://opensource-demo.orangehrmlive.com/");
+        }
+
+        [Test]
+        public void LoginToOrangeHRMS()
+        {
+            test = extent.CreateTest("Login Test").Info("Test Started");
+
+            try
+            {
+                driver.FindElement(By.Name("username")).SendKeys("Admin");
+                driver.FindElement(By.Name("password")).SendKeys("admin123");
+                driver.FindElement(By.CssSelector("button[type='submit']")).Click();
+
+                // wait for the URL to contain 'dashboard' (or for a dashboard-specific element)
+                var wait = new WebDriverWait(driver, TimeSpan.FromSeconds(10));
+                bool navigated = wait.Until(d => d.Url != null && d.Url.Contains("dashboard"));
+
+                NUnit.Framework.Assert.IsTrue(navigated, "Expected to navigate to a URL containing 'dashboard' after login.");
+                test.Pass("Login successful");
+            }
+            catch (Exception ex)
+            {
+                test.Fail("Test failed: " + ex.Message);
+                throw;
+            }
+        }
+        [TearDown]
+        public void EndTest()
+        {
+            driver?.Quit();
+            driver?.Dispose();
+        }
+
+        [OneTimeTearDown]
+        public void GenerateReport()
+        {
+            extent.Flush();
+        }
+
+
+    }
+}

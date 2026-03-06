@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SHOBHIT\\source\\repos\\FacadePattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42D88266-6E7D-4EEA-AC7B-57C1B61F4732}|FacadePattern.csproj|c:\\users\\shobhit\\source\\repos\\facadepattern\\icecreamfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D88266-6E7D-4EEA-AC7B-57C1B61F4732}|FacadePattern.csproj|solutionrelative:icecreamfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D88266-6E7D-4EEA-AC7B-57C1B61F4732}|FacadePattern.csproj|c:\\users\\shobhit\\source\\repos\\facadepattern\\flavourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D88266-6E7D-4EEA-AC7B-57C1B61F4732}|FacadePattern.csproj|solutionrelative:flavourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D88266-6E7D-4EEA-AC7B-57C1B61F4732}|FacadePattern.csproj|c:\\users\\shobhit\\source\\repos\\facadepattern\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D88266-6E7D-4EEA-AC7B-57C1B61F4732}|FacadePattern.csproj|solutionrelative:paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D88266-6E7D-4EEA-AC7B-57C1B61F4732}|FacadePattern.csproj|c:\\users\\shobhit\\source\\repos\\facadepattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D88266-6E7D-4EEA-AC7B-57C1B61F4732}|FacadePattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D88266-6E7D-4EEA-AC7B-57C1B61F4732}|FacadePattern.csproj|c:\\users\\shobhit\\source\\repos\\facadepattern\\coneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D88266-6E7D-4EEA-AC7B-57C1B61F4732}|FacadePattern.csproj|solutionrelative:coneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IceCreamFacade.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\FacadePattern\\IceCreamFacade.cs",
+              "RelativeDocumentMoniker": "IceCreamFacade.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\FacadePattern\\IceCreamFacade.cs*",
+              "RelativeToolTip": "IceCreamFacade.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T06:40:20.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\FacadePattern\\PaymentService.cs",
+              "RelativeDocumentMoniker": "PaymentService.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\FacadePattern\\PaymentService.cs",
+              "RelativeToolTip": "PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T06:35:21.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlavourService.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\FacadePattern\\FlavourService.cs",
+              "RelativeDocumentMoniker": "FlavourService.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\FacadePattern\\FlavourService.cs",
+              "RelativeToolTip": "FlavourService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T06:35:00.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConeService.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\FacadePattern\\ConeService.cs",
+              "RelativeDocumentMoniker": "ConeService.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\FacadePattern\\ConeService.cs",
+              "RelativeToolTip": "ConeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T06:34:43.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\FacadePattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\FacadePattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T06:34:16.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

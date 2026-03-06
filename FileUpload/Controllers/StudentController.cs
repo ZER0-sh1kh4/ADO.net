@@ -1,0 +1,64 @@
+﻿using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Http;
+using System.IO;
+
+
+namespace FileUpload.Controllers
+{
+    public class StudentController : Controller
+    {
+        private readonly IWebHostEnvironment _env;
+
+        public StudentController(IWebHostEnvironment env)
+        {
+            _env = env;
+        }
+
+        [HttpPost]
+        public IActionResult UploadImage(IFormFile file)
+        {
+            if (file == null)
+            {
+                ViewBag.Message = "No file selected";
+                return View();
+            }
+
+            string extension = Path.GetExtension(file.FileName).ToLower();
+
+            if (extension != ".jpg" && extension != ".png")
+            {
+                ViewBag.Message = "Invalid file type";
+                return View();
+            }
+            if (file.Length > 2 * 1024 * 1024)
+            {
+                ViewBag.Message = "File must be ≤ 2MB";
+                return View();
+            }
+
+            string path = Path.Combine(_env.WebRootPath, "uploads");
+
+            if (!Directory.Exists(path))
+            {
+                Directory.CreateDirectory(path);
+            }
+
+            string filePath = Path.Combine(path, file.FileName);
+
+            using (var stream = new FileStream(filePath, FileMode.Create))
+            {
+                file.CopyTo(stream);
+            }
+
+            ViewBag.Message = "Uploaded Successfully";
+
+            return View();
+        }
+            public IActionResult UploadImage()
+        {
+            return View();
+        }
+    
+    }
+}
