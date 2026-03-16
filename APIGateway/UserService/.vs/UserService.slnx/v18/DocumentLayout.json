@@ -1,0 +1,414 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\UserService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BCC64D-F15B-5916-EC53-FB15E7E031C3}|..\\APIGateway\\APIGateway.csproj|c:\\users\\shobhit\\source\\repos\\apigateway\\apigateway\\configuration\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BCC64D-F15B-5916-EC53-FB15E7E031C3}|..\\APIGateway\\APIGateway.csproj|c:\\users\\shobhit\\source\\repos\\apigateway\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5330675E-55A4-21C8-14E0-9D8CC9DCA822}|..\\ProductService\\ProductService.csproj|c:\\users\\shobhit\\source\\repos\\apigateway\\productservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5330675E-55A4-21C8-14E0-9D8CC9DCA822}|..\\ProductService\\ProductService.csproj|c:\\users\\shobhit\\source\\repos\\apigateway\\productservice\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B98574C-C3D9-E5A0-8677-20729192D278}|UserService.csproj|c:\\users\\shobhit\\source\\repos\\apigateway\\userservice\\migrations\\20260314100706_productapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B98574C-C3D9-E5A0-8677-20729192D278}|UserService.csproj|solutionrelative:migrations\\20260314100706_productapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5330675E-55A4-21C8-14E0-9D8CC9DCA822}|..\\ProductService\\ProductService.csproj|c:\\users\\shobhit\\source\\repos\\apigateway\\productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B98574C-C3D9-E5A0-8677-20729192D278}|UserService.csproj|c:\\users\\shobhit\\source\\repos\\apigateway\\userservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B98574C-C3D9-E5A0-8677-20729192D278}|UserService.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5330675E-55A4-21C8-14E0-9D8CC9DCA822}|..\\ProductService\\ProductService.csproj|c:\\users\\shobhit\\source\\repos\\apigateway\\productservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5330675E-55A4-21C8-14E0-9D8CC9DCA822}|..\\ProductService\\ProductService.csproj|c:\\users\\shobhit\\source\\repos\\apigateway\\productservice\\service\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5330675E-55A4-21C8-14E0-9D8CC9DCA822}|..\\ProductService\\ProductService.csproj|c:\\users\\shobhit\\source\\repos\\apigateway\\productservice\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5330675E-55A4-21C8-14E0-9D8CC9DCA822}|..\\ProductService\\ProductService.csproj|c:\\users\\shobhit\\source\\repos\\apigateway\\productservice\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5330675E-55A4-21C8-14E0-9D8CC9DCA822}|..\\ProductService\\ProductService.csproj|c:\\users\\shobhit\\source\\repos\\apigateway\\productservice\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5330675E-55A4-21C8-14E0-9D8CC9DCA822}|..\\ProductService\\ProductService.csproj|c:\\users\\shobhit\\source\\repos\\apigateway\\productservice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5330675E-55A4-21C8-14E0-9D8CC9DCA822}|..\\ProductService\\ProductService.csproj|c:\\users\\shobhit\\source\\repos\\apigateway\\productservice\\productservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B98574C-C3D9-E5A0-8677-20729192D278}|UserService.csproj|c:\\users\\shobhit\\source\\repos\\apigateway\\userservice\\migrations\\20260314094107_userserviceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B98574C-C3D9-E5A0-8677-20729192D278}|UserService.csproj|solutionrelative:migrations\\20260314094107_userserviceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B98574C-C3D9-E5A0-8677-20729192D278}|UserService.csproj|c:\\users\\shobhit\\source\\repos\\apigateway\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B98574C-C3D9-E5A0-8677-20729192D278}|UserService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B98574C-C3D9-E5A0-8677-20729192D278}|UserService.csproj|c:\\users\\shobhit\\source\\repos\\apigateway\\userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B98574C-C3D9-E5A0-8677-20729192D278}|UserService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B98574C-C3D9-E5A0-8677-20729192D278}|UserService.csproj|c:\\users\\shobhit\\source\\repos\\apigateway\\userservice\\service\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B98574C-C3D9-E5A0-8677-20729192D278}|UserService.csproj|solutionrelative:service\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B98574C-C3D9-E5A0-8677-20729192D278}|UserService.csproj|c:\\users\\shobhit\\source\\repos\\apigateway\\userservice\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B98574C-C3D9-E5A0-8677-20729192D278}|UserService.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B98574C-C3D9-E5A0-8677-20729192D278}|UserService.csproj|c:\\users\\shobhit\\source\\repos\\apigateway\\userservice\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B98574C-C3D9-E5A0-8677-20729192D278}|UserService.csproj|solutionrelative:repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B98574C-C3D9-E5A0-8677-20729192D278}|UserService.csproj|c:\\users\\shobhit\\source\\repos\\apigateway\\userservice\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B98574C-C3D9-E5A0-8677-20729192D278}|UserService.csproj|solutionrelative:data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B98574C-C3D9-E5A0-8677-20729192D278}|UserService.csproj|c:\\users\\shobhit\\source\\repos\\apigateway\\userservice\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B98574C-C3D9-E5A0-8677-20729192D278}|UserService.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B98574C-C3D9-E5A0-8677-20729192D278}|UserService.csproj|c:\\users\\shobhit\\source\\repos\\apigateway\\userservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B98574C-C3D9-E5A0-8677-20729192D278}|UserService.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B98574C-C3D9-E5A0-8677-20729192D278}|UserService.csproj|c:\\users\\shobhit\\source\\repos\\apigateway\\userservice\\userservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B98574C-C3D9-E5A0-8677-20729192D278}|UserService.csproj|solutionrelative:userservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5330675E-55A4-21C8-14E0-9D8CC9DCA822}|..\\ProductService\\ProductService.csproj|c:\\users\\shobhit\\source\\repos\\apigateway\\productservice\\migrations\\20260315160442_ocelotproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20260315160442_OcelotProduct.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\ProductService\\Migrations\\20260315160442_OcelotProduct.cs",
+              "RelativeDocumentMoniker": "..\\ProductService\\Migrations\\20260315160442_OcelotProduct.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\ProductService\\Migrations\\20260315160442_OcelotProduct.cs",
+              "RelativeToolTip": "..\\ProductService\\Migrations\\20260315160442_OcelotProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T16:04:42.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260314100706_ProductApi.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\UserService\\Migrations\\20260314100706_ProductApi.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260314100706_ProductApi.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\UserService\\Migrations\\20260314100706_ProductApi.cs",
+              "RelativeToolTip": "Migrations\\20260314100706_ProductApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T10:07:06.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\ProductService\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ProductService\\Program.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\ProductService\\Program.cs",
+              "RelativeToolTip": "..\\ProductService\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T09:59:45.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\UserService\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\UserService\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T10:02:35.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\ProductService\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "..\\ProductService\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\ProductService\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "..\\ProductService\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T10:01:08.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\ProductService\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\ProductService\\appsettings.json",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\ProductService\\appsettings.json",
+              "RelativeToolTip": "..\\ProductService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-14T09:59:06.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\ProductService\\Service\\ProductServices.cs",
+              "RelativeDocumentMoniker": "..\\ProductService\\Service\\ProductServices.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\ProductService\\Service\\ProductServices.cs",
+              "RelativeToolTip": "..\\ProductService\\Service\\ProductServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T09:58:22.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\ProductService\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\ProductService\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\ProductService\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "..\\ProductService\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAewA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T09:56:03.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\ProductService\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\ProductService\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\ProductService\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "..\\ProductService\\Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T09:55:29.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\ProductService\\Data\\ProductDBContext.cs",
+              "RelativeDocumentMoniker": "..\\ProductService\\Data\\ProductDBContext.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\ProductService\\Data\\ProductDBContext.cs",
+              "RelativeToolTip": "..\\ProductService\\Data\\ProductDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T09:49:31.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\ProductService\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "..\\ProductService\\DTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\ProductService\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "..\\ProductService\\DTO\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T09:47:46.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\ProductService\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "..\\ProductService\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\ProductService\\Models\\Product.cs",
+              "RelativeToolTip": "..\\ProductService\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T09:46:23.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductService.csproj",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\ProductService\\ProductService.csproj",
+              "RelativeDocumentMoniker": "..\\ProductService\\ProductService.csproj",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\ProductService\\ProductService.csproj",
+              "RelativeToolTip": "..\\ProductService\\ProductService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-14T09:45:59.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260314094107_UserServiceApi.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\UserService\\Migrations\\20260314094107_UserServiceApi.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260314094107_UserServiceApi.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\UserService\\Migrations\\20260314094107_UserServiceApi.cs",
+              "RelativeToolTip": "Migrations\\20260314094107_UserServiceApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T09:41:08.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\UserService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\UserService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T09:34:14.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\UserService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\UserService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-14T09:33:23.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\UserService\\Service\\UserServices.cs",
+              "RelativeDocumentMoniker": "Service\\UserServices.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\UserService\\Service\\UserServices.cs",
+              "RelativeToolTip": "Service\\UserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T09:30:33.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\UserService\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\UserService\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T09:27:59.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\UserService\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\UserService\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T09:26:46.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\UserService\\Data\\UserDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\UserDBContext.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\UserService\\Data\\UserDBContext.cs",
+              "RelativeToolTip": "Data\\UserDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T09:19:28.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\UserService\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\UserService\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T09:16:24.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\UserService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\UserService\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T09:12:50.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserService.csproj",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\UserService\\UserService.csproj",
+              "RelativeDocumentMoniker": "UserService.csproj",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\UserService\\UserService.csproj",
+              "RelativeToolTip": "UserService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-14T09:12:22.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\APIGateway\\Program.cs",
+              "RelativeDocumentMoniker": "..\\APIGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\APIGateway\\Program.cs",
+              "RelativeToolTip": "..\\APIGateway\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T09:07:54.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\APIGateway\\Configuration\\ocelot.json",
+              "RelativeDocumentMoniker": "..\\APIGateway\\Configuration\\ocelot.json",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\APIGateway\\APIGateway\\Configuration\\ocelot.json",
+              "RelativeToolTip": "..\\APIGateway\\Configuration\\ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-14T09:06:55.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

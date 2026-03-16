@@ -1,0 +1,6 @@
+@JWTOneToOne_HostAddress = http://localhost:5195
+
+GET {{JWTOneToOne_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

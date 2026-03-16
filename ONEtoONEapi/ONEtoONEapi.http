@@ -1,0 +1,6 @@
+@ONEtoONEapi_HostAddress = http://localhost:5033
+
+GET {{ONEtoONEapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

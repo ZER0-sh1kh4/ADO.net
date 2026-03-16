@@ -1,0 +1,28 @@
+﻿@model List<Loginpage.Models.Mark>
+
+<h2>Semester Marks</h2>
+
+<table border="1">
+
+    <tr>
+        <th>Semester</th>
+        <th>Marks</th>
+    </tr>
+
+    @foreach (var m in Model)
+    {
+        <tr>
+            <td>@m.Semester</td>
+            <td>@m.Score</td>
+        </tr>
+    }
+
+</table>
+
+
+@if (Model != null && Model.Count > 0)
+{
+    <a asp-controller="Student" asp-action="IDCard" asp-route-id="@Model[0].StudentId">
+        <button>Generate ID Card</button>
+    </a>
+}

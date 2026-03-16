@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|c:\\users\\shobhit\\source\\repos\\loginpage\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|solutionrelative:views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|c:\\users\\shobhit\\source\\repos\\loginpage\\migrations\\20260309094634_loginrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|solutionrelative:migrations\\20260309094634_loginrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|c:\\users\\shobhit\\source\\repos\\loginpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|c:\\users\\shobhit\\source\\repos\\loginpage\\views\\student\\idcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|solutionrelative:views\\student\\idcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|c:\\users\\shobhit\\source\\repos\\loginpage\\views\\student\\marks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|solutionrelative:views\\student\\marks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|c:\\users\\shobhit\\source\\repos\\loginpage\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|c:\\users\\shobhit\\source\\repos\\loginpage\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|c:\\users\\shobhit\\source\\repos\\loginpage\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|solutionrelative:services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|c:\\users\\shobhit\\source\\repos\\loginpage\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|solutionrelative:services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|c:\\users\\shobhit\\source\\repos\\loginpage\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|solutionrelative:repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|c:\\users\\shobhit\\source\\repos\\loginpage\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|solutionrelative:repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|c:\\users\\shobhit\\source\\repos\\loginpage\\models\\mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|solutionrelative:models\\mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|c:\\users\\shobhit\\source\\repos\\loginpage\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|c:\\users\\shobhit\\source\\repos\\loginpage\\data\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|solutionrelative:data\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|c:\\users\\shobhit\\source\\repos\\loginpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34F4FA31-B65A-ECCF-D256-6B64E56F9CBE}|Loginpage.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260309094634_LoginRepo.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Migrations\\20260309094634_LoginRepo.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260309094634_LoginRepo.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Migrations\\20260309094634_LoginRepo.cs",
+              "RelativeToolTip": "Migrations\\20260309094634_LoginRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:46:34.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:26:21.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDCard.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Views\\Student\\IDCard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\IDCard.cshtml",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Views\\Student\\IDCard.cshtml",
+              "RelativeToolTip": "Views\\Student\\IDCard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T09:44:52.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Marks.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Views\\Student\\Marks.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Marks.cshtml",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Views\\Student\\Marks.cshtml",
+              "RelativeToolTip": "Views\\Student\\Marks.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T09:44:20.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Views\\Login\\login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\login.cshtml",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Views\\Login\\login.cshtml",
+              "RelativeToolTip": "Views\\Login\\login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T09:43:34.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:42:29.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:40:41.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Services\\StudentService.cs",
+              "RelativeToolTip": "Services\\StudentService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:38:23.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Services\\IStudentService.cs",
+              "RelativeToolTip": "Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:38:00.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:35:57.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "Repositories\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:35:29.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Mark.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Models\\Mark.cs",
+              "RelativeDocumentMoniker": "Models\\Mark.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Models\\Mark.cs",
+              "RelativeToolTip": "Models\\Mark.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:29:53.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:26:59.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Data\\StudentDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\StudentDBContext.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\Data\\StudentDBContext.cs",
+              "RelativeToolTip": "Data\\StudentDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:26:41.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\Loginpage\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-09T09:25:55.676Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

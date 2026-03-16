@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../ONEtoONEapi/ONEtoONEapi.csproj" />
+  <Project Path="HttpClient.csproj" />
+</Solution>

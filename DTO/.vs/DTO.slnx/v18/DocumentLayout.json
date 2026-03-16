@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SHOBHIT\\source\\repos\\DTO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{398F4E5C-70D0-4378-9C87-730EE7BE0944}|DTO.csproj|c:\\users\\shobhit\\source\\repos\\dto\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398F4E5C-70D0-4378-9C87-730EE7BE0944}|DTO.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398F4E5C-70D0-4378-9C87-730EE7BE0944}|DTO.csproj|c:\\users\\shobhit\\source\\repos\\dto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398F4E5C-70D0-4378-9C87-730EE7BE0944}|DTO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398F4E5C-70D0-4378-9C87-730EE7BE0944}|DTO.csproj|c:\\users\\shobhit\\source\\repos\\dto\\dto\\resultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398F4E5C-70D0-4378-9C87-730EE7BE0944}|DTO.csproj|solutionrelative:dto\\resultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398F4E5C-70D0-4378-9C87-730EE7BE0944}|DTO.csproj|c:\\users\\shobhit\\source\\repos\\dto\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398F4E5C-70D0-4378-9C87-730EE7BE0944}|DTO.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398F4E5C-70D0-4378-9C87-730EE7BE0944}|DTO.csproj|c:\\users\\shobhit\\source\\repos\\dto\\dto\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398F4E5C-70D0-4378-9C87-730EE7BE0944}|DTO.csproj|solutionrelative:dto\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398F4E5C-70D0-4378-9C87-730EE7BE0944}|DTO.csproj|c:\\users\\shobhit\\source\\repos\\dto\\dto\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398F4E5C-70D0-4378-9C87-730EE7BE0944}|DTO.csproj|solutionrelative:dto\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398F4E5C-70D0-4378-9C87-730EE7BE0944}|DTO.csproj|c:\\users\\shobhit\\source\\repos\\dto\\dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{398F4E5C-70D0-4378-9C87-730EE7BE0944}|DTO.csproj|solutionrelative:dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\DTO\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\DTO\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T06:29:41.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\DTO\\DTO\\ResultDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ResultDTO.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\DTO\\DTO\\ResultDTO.cs",
+              "RelativeToolTip": "DTO\\ResultDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T06:26:36.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\DTO\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\DTO\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T06:21:06.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateStudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\DTO\\DTO\\UpdateStudentDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UpdateStudentDTO.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\DTO\\DTO\\UpdateStudentDTO.cs",
+              "RelativeToolTip": "DTO\\UpdateStudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T06:18:18.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateStudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\DTO\\DTO\\CreateStudentDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CreateStudentDTO.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\DTO\\DTO\\CreateStudentDTO.cs",
+              "RelativeToolTip": "DTO\\CreateStudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T06:17:16.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DTO",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\DTO\\DTO.csproj",
+              "RelativeDocumentMoniker": "DTO.csproj",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\DTO\\DTO.csproj",
+              "RelativeToolTip": "DTO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-10T06:16:41.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\DTO\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\DTO\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T06:15:04.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

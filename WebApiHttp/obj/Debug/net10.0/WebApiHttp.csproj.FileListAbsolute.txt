@@ -1,0 +1,15 @@
+C:\Users\SHOBHIT\source\repos\WebApiHttp\bin\Debug\net10.0\WebApiHttp.exe
+C:\Users\SHOBHIT\source\repos\WebApiHttp\bin\Debug\net10.0\WebApiHttp.deps.json
+C:\Users\SHOBHIT\source\repos\WebApiHttp\bin\Debug\net10.0\WebApiHttp.runtimeconfig.json
+C:\Users\SHOBHIT\source\repos\WebApiHttp\bin\Debug\net10.0\WebApiHttp.dll
+C:\Users\SHOBHIT\source\repos\WebApiHttp\bin\Debug\net10.0\WebApiHttp.pdb
+C:\Users\SHOBHIT\source\repos\WebApiHttp\obj\Debug\net10.0\WebApiHttp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHOBHIT\source\repos\WebApiHttp\obj\Debug\net10.0\WebApiHttp.AssemblyInfoInputs.cache
+C:\Users\SHOBHIT\source\repos\WebApiHttp\obj\Debug\net10.0\WebApiHttp.AssemblyInfo.cs
+C:\Users\SHOBHIT\source\repos\WebApiHttp\obj\Debug\net10.0\WebApiHttp.csproj.CoreCompileInputs.cache
+C:\Users\SHOBHIT\source\repos\WebApiHttp\obj\Debug\net10.0\WebApiHttp.sourcelink.json
+C:\Users\SHOBHIT\source\repos\WebApiHttp\obj\Debug\net10.0\WebApiHttp.dll
+C:\Users\SHOBHIT\source\repos\WebApiHttp\obj\Debug\net10.0\refint\WebApiHttp.dll
+C:\Users\SHOBHIT\source\repos\WebApiHttp\obj\Debug\net10.0\WebApiHttp.pdb
+C:\Users\SHOBHIT\source\repos\WebApiHttp\obj\Debug\net10.0\WebApiHttp.genruntimeconfig.cache
+C:\Users\SHOBHIT\source\repos\WebApiHttp\obj\Debug\net10.0\ref\WebApiHttp.dll

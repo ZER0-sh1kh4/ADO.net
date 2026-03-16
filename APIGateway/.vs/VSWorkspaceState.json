@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\APIGateway",
+    "\\APIGateway\\Configuration",
+    "\\APIGateway\\Controllers",
+    "\\ProductService",
+    "\\ProductService\\Controllers",
+    "\\ProductService\\Data"
+  ],
+  "SelectedNode": "\\APIGateway\\Configuration\\ocelot.json",
+  "PreviewInSolutionExplorer": false
+}

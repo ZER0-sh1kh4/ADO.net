@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SHOBHIT\\source\\repos\\HttpClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{121857AB-A796-4079-AE43-22173D3B7A88}|..\\ONEtoONEapi\\ONEtoONEapi.csproj|c:\\users\\shobhit\\source\\repos\\onetooneapi\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121857AB-A796-4079-AE43-22173D3B7A88}|..\\ONEtoONEapi\\ONEtoONEapi.csproj|c:\\users\\shobhit\\source\\repos\\onetooneapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121857AB-A796-4079-AE43-22173D3B7A88}|..\\ONEtoONEapi\\ONEtoONEapi.csproj|c:\\users\\shobhit\\source\\repos\\onetooneapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121857AB-A796-4079-AE43-22173D3B7A88}|..\\ONEtoONEapi\\ONEtoONEapi.csproj|c:\\users\\shobhit\\source\\repos\\onetooneapi\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121857AB-A796-4079-AE43-22173D3B7A88}|..\\ONEtoONEapi\\ONEtoONEapi.csproj|c:\\users\\shobhit\\source\\repos\\onetooneapi\\dtos\\viewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121857AB-A796-4079-AE43-22173D3B7A88}|..\\ONEtoONEapi\\ONEtoONEapi.csproj|c:\\users\\shobhit\\source\\repos\\onetooneapi\\models\\hostel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121857AB-A796-4079-AE43-22173D3B7A88}|..\\ONEtoONEapi\\ONEtoONEapi.csproj|c:\\users\\shobhit\\source\\repos\\onetooneapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121857AB-A796-4079-AE43-22173D3B7A88}|..\\ONEtoONEapi\\ONEtoONEapi.csproj|c:\\users\\shobhit\\source\\repos\\onetooneapi\\dtos\\updatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121857AB-A796-4079-AE43-22173D3B7A88}|..\\ONEtoONEapi\\ONEtoONEapi.csproj|c:\\users\\shobhit\\source\\repos\\onetooneapi\\dtos\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121857AB-A796-4079-AE43-22173D3B7A88}|..\\ONEtoONEapi\\ONEtoONEapi.csproj|c:\\users\\shobhit\\source\\repos\\onetooneapi\\onetooneapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC1C5DD-13DF-4096-AEEF-1ED67B0F31A8}|HttpClient.csproj|c:\\users\\shobhit\\source\\repos\\httpclient\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC1C5DD-13DF-4096-AEEF-1ED67B0F31A8}|HttpClient.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewAll.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\ONEtoONEapi\\DTOS\\ViewAll.cs",
+              "RelativeDocumentMoniker": "..\\ONEtoONEapi\\DTOS\\ViewAll.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\ONEtoONEapi\\DTOS\\ViewAll.cs",
+              "RelativeToolTip": "..\\ONEtoONEapi\\DTOS\\ViewAll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T10:07:25.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\ONEtoONEapi\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "..\\ONEtoONEapi\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\ONEtoONEapi\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "..\\ONEtoONEapi\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T09:54:23.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\ONEtoONEapi\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "..\\ONEtoONEapi\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\ONEtoONEapi\\Services\\StudentService.cs",
+              "RelativeToolTip": "..\\ONEtoONEapi\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIAxwBQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T09:52:09.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\ONEtoONEapi\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "..\\ONEtoONEapi\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\ONEtoONEapi\\Services\\IStudentService.cs",
+              "RelativeToolTip": "..\\ONEtoONEapi\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T09:51:08.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateStudent.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\ONEtoONEapi\\DTOS\\UpdateStudent.cs",
+              "RelativeDocumentMoniker": "..\\ONEtoONEapi\\DTOS\\UpdateStudent.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\ONEtoONEapi\\DTOS\\UpdateStudent.cs",
+              "RelativeToolTip": "..\\ONEtoONEapi\\DTOS\\UpdateStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T09:48:33.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddStudent.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\ONEtoONEapi\\DTOS\\AddStudent.cs",
+              "RelativeDocumentMoniker": "..\\ONEtoONEapi\\DTOS\\AddStudent.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\ONEtoONEapi\\DTOS\\AddStudent.cs",
+              "RelativeToolTip": "..\\ONEtoONEapi\\DTOS\\AddStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T09:47:27.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hostel.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\ONEtoONEapi\\Models\\Hostel.cs",
+              "RelativeDocumentMoniker": "..\\ONEtoONEapi\\Models\\Hostel.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\ONEtoONEapi\\Models\\Hostel.cs",
+              "RelativeToolTip": "..\\ONEtoONEapi\\Models\\Hostel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T09:45:51.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\ONEtoONEapi\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\ONEtoONEapi\\appsettings.json",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\ONEtoONEapi\\appsettings.json",
+              "RelativeToolTip": "..\\ONEtoONEapi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-10T09:37:14.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\ONEtoONEapi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ONEtoONEapi\\Program.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\ONEtoONEapi\\Program.cs",
+              "RelativeToolTip": "..\\ONEtoONEapi\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T09:36:29.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ONEtoONEapi",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\ONEtoONEapi\\ONEtoONEapi.csproj",
+              "RelativeDocumentMoniker": "..\\ONEtoONEapi\\ONEtoONEapi.csproj",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\ONEtoONEapi\\ONEtoONEapi.csproj",
+              "RelativeToolTip": "..\\ONEtoONEapi\\ONEtoONEapi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-10T09:32:18.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\HttpClient\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\HttpClient\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T09:16:35.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

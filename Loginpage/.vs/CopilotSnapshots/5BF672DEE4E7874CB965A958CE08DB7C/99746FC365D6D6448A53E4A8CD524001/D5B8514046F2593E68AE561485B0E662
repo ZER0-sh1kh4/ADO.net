@@ -1,0 +1,38 @@
+﻿using Loginpage.Services;
+using Microsoft.AspNetCore.Mvc;
+
+namespace Loginpage.Controllers
+{
+    [Route("student")]
+    public class StudentController : Controller
+    {
+        private readonly IStudentService _service;
+
+        public StudentController(IStudentService service)
+        {
+            _service = service;
+        }
+
+        [HttpGet("marks/{id}")]
+        public IActionResult Marks(int id)
+        {
+            var marks = _service.GetMarks(id);
+
+            return View(marks);
+        }
+        [HttpGet("idcard/{id}")]
+        public IActionResult IDCard(int id)
+        {
+            var student = _service.GetStudentById(id);
+            if (student == null)
+            {
+                return Content("Student not found");
+            }
+            return View();
+        }
+        public IActionResult Index()
+        {
+            return View();
+        }
+    }
+}

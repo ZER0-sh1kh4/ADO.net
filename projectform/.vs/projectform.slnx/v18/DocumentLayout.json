@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\SHOBHIT\\source\\repos\\projectform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2EF75F9-52CB-2696-9643-0D58875C7114}|projectform.csproj|c:\\users\\shobhit\\source\\repos\\projectform\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2EF75F9-52CB-2696-9643-0D58875C7114}|projectform.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2EF75F9-52CB-2696-9643-0D58875C7114}|projectform.csproj|c:\\users\\shobhit\\source\\repos\\projectform\\migrations\\20260303050934_projectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2EF75F9-52CB-2696-9643-0D58875C7114}|projectform.csproj|solutionrelative:migrations\\20260303050934_projectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2EF75F9-52CB-2696-9643-0D58875C7114}|projectform.csproj|c:\\users\\shobhit\\source\\repos\\projectform\\data\\studentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2EF75F9-52CB-2696-9643-0D58875C7114}|projectform.csproj|solutionrelative:data\\studentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2EF75F9-52CB-2696-9643-0D58875C7114}|projectform.csproj|c:\\users\\shobhit\\source\\repos\\projectform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2EF75F9-52CB-2696-9643-0D58875C7114}|projectform.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EF75F9-52CB-2696-9643-0D58875C7114}|projectform.csproj|c:\\users\\shobhit\\source\\repos\\projectform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2EF75F9-52CB-2696-9643-0D58875C7114}|projectform.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2EF75F9-52CB-2696-9643-0D58875C7114}|projectform.csproj|c:\\users\\shobhit\\source\\repos\\projectform\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,12 +23,12 @@
       "RelativeMoniker": "D:0:0:{D2EF75F9-52CB-2696-9643-0D58875C7114}|projectform.csproj|solutionrelative:models\\hostel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2EF75F9-52CB-2696-9643-0D58875C7114}|projectform.csproj|c:\\users\\shobhit\\source\\repos\\projectform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2EF75F9-52CB-2696-9643-0D58875C7114}|projectform.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2EF75F9-52CB-2696-9643-0D58875C7114}|projectform.csproj|c:\\users\\shobhit\\source\\repos\\projectform\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2EF75F9-52CB-2696-9643-0D58875C7114}|projectform.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2EF75F9-52CB-2696-9643-0D58875C7114}|projectform.csproj|c:\\users\\shobhit\\source\\repos\\projectform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D2EF75F9-52CB-2696-9643-0D58875C7114}|projectform.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D2EF75F9-52CB-2696-9643-0D58875C7114}|projectform.csproj|c:\\users\\shobhit\\source\\repos\\projectform\\data\\studentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2EF75F9-52CB-2696-9643-0D58875C7114}|projectform.csproj|solutionrelative:data\\studentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2EF75F9-52CB-2696-9643-0D58875C7114}|projectform.csproj|c:\\users\\shobhit\\source\\repos\\projectform\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D2EF75F9-52CB-2696-9643-0D58875C7114}|projectform.csproj|c:\\users\\shobhit\\source\\repos\\projectform\\projectform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D2EF75F9-52CB-2696-9643-0D58875C7114}|projectform.csproj|solutionrelative:projectform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2EF75F9-52CB-2696-9643-0D58875C7114}|projectform.csproj|c:\\users\\shobhit\\source\\repos\\projectform\\migrations\\20260303050934_projectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2EF75F9-52CB-2696-9643-0D58875C7114}|projectform.csproj|solutionrelative:migrations\\20260303050934_projectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "20260303050934_Projectform.cs",
               "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\projectform\\Migrations\\20260303050934_Projectform.cs",
               "RelativeDocumentMoniker": "Migrations\\20260303050934_Projectform.cs",
@@ -66,24 +66,25 @@
               "RelativeToolTip": "Migrations\\20260303050934_Projectform.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T05:09:34.772Z"
+              "WhenOpened": "2026-03-03T05:09:34.772Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\projectform\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
               "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\projectform\\Controllers\\StudentsController.cs",
               "RelativeToolTip": "Controllers\\StudentsController.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAuwHEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAHEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-28T05:28:50.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\projectform\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -91,11 +92,12 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T05:18:59.545Z"
+              "WhenOpened": "2026-02-28T05:18:59.545Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Hostel.cs",
               "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\projectform\\Models\\Hostel.cs",
               "RelativeDocumentMoniker": "Models\\Hostel.cs",
@@ -103,11 +105,12 @@
               "RelativeToolTip": "Models\\Hostel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T05:17:42.127Z"
+              "WhenOpened": "2026-02-28T05:17:42.127Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\projectform\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",
@@ -120,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "StudentManagement.cs",
               "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\projectform\\Data\\StudentManagement.cs",
               "RelativeDocumentMoniker": "Data\\StudentManagement.cs",
@@ -133,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\projectform\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -141,11 +144,12 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-28T04:59:04.861Z"
+              "WhenOpened": "2026-02-28T04:59:04.861Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\projectform\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -157,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\projectform\\Views\\Students\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Students\\Create.cshtml",
@@ -169,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "projectform.csproj",
               "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\projectform\\projectform.csproj",
               "RelativeDocumentMoniker": "projectform.csproj",

@@ -1,0 +1,6 @@
+@Gitcommmand_HostAddress = http://localhost:5160
+
+GET {{Gitcommmand_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

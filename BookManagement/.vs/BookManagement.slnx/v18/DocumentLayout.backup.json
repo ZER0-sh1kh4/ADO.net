@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SHOBHIT\\source\\repos\\BookManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SHOBHIT\\source\\repos\\BookManagement\\Migrations\\20260307065417_UpdateRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260307065417_UpdateRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9822526E-83F3-4F90-A886-26DF8B7FF5FC}|BookManagement.csproj|c:\\users\\shobhit\\source\\repos\\bookmanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9822526E-83F3-4F90-A886-26DF8B7FF5FC}|BookManagement.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9822526E-83F3-4F90-A886-26DF8B7FF5FC}|BookManagement.csproj|c:\\users\\shobhit\\source\\repos\\bookmanagement\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9822526E-83F3-4F90-A886-26DF8B7FF5FC}|BookManagement.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9822526E-83F3-4F90-A886-26DF8B7FF5FC}|BookManagement.csproj|c:\\users\\shobhit\\source\\repos\\bookmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9822526E-83F3-4F90-A886-26DF8B7FF5FC}|BookManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9822526E-83F3-4F90-A886-26DF8B7FF5FC}|BookManagement.csproj|c:\\users\\shobhit\\source\\repos\\bookmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9822526E-83F3-4F90-A886-26DF8B7FF5FC}|BookManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SHOBHIT\\source\\repos\\BookManagement\\Migrations\\20260307063512_BookRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260307063512_BookRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9822526E-83F3-4F90-A886-26DF8B7FF5FC}|BookManagement.csproj|c:\\users\\shobhit\\source\\repos\\bookmanagement\\repositories\\sqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9822526E-83F3-4F90-A886-26DF8B7FF5FC}|BookManagement.csproj|solutionrelative:repositories\\sqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9822526E-83F3-4F90-A886-26DF8B7FF5FC}|BookManagement.csproj|c:\\users\\shobhit\\source\\repos\\bookmanagement\\data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9822526E-83F3-4F90-A886-26DF8B7FF5FC}|BookManagement.csproj|solutionrelative:data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9822526E-83F3-4F90-A886-26DF8B7FF5FC}|BookManagement.csproj|c:\\users\\shobhit\\source\\repos\\bookmanagement\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9822526E-83F3-4F90-A886-26DF8B7FF5FC}|BookManagement.csproj|solutionrelative:repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9822526E-83F3-4F90-A886-26DF8B7FF5FC}|BookManagement.csproj|c:\\users\\shobhit\\source\\repos\\bookmanagement\\bookmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9822526E-83F3-4F90-A886-26DF8B7FF5FC}|BookManagement.csproj|solutionrelative:bookmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9822526E-83F3-4F90-A886-26DF8B7FF5FC}|BookManagement.csproj|c:\\users\\shobhit\\source\\repos\\bookmanagement\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9822526E-83F3-4F90-A886-26DF8B7FF5FC}|BookManagement.csproj|solutionrelative:repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260307065417_UpdateRepo.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\BookManagement\\Migrations\\20260307065417_UpdateRepo.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260307065417_UpdateRepo.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\BookManagement\\Migrations\\20260307065417_UpdateRepo.cs",
+              "RelativeToolTip": "Migrations\\20260307065417_UpdateRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T06:54:17.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260307063512_BookRepo.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\BookManagement\\Migrations\\20260307063512_BookRepo.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260307063512_BookRepo.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\BookManagement\\Migrations\\20260307063512_BookRepo.cs",
+              "RelativeToolTip": "Migrations\\20260307063512_BookRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T06:35:13.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\BookManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\BookManagement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-07T06:27:50.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SQLRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\BookManagement\\Repositories\\SQLRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\SQLRepository.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\BookManagement\\Repositories\\SQLRepository.cs",
+              "RelativeToolTip": "Repositories\\SQLRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T06:26:54.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\BookManagement\\Data\\BookDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\BookDbContext.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\BookManagement\\Data\\BookDbContext.cs",
+              "RelativeToolTip": "Data\\BookDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T06:24:37.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookManagement",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\BookManagement\\BookManagement.csproj",
+              "RelativeDocumentMoniker": "BookManagement.csproj",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\BookManagement\\BookManagement.csproj",
+              "RelativeToolTip": "BookManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-07T06:24:11.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\BookManagement\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\BookManagement\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T06:14:39.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\BookManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\BookManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T06:13:37.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\BookManagement\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\BookManagement\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T06:12:21.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\BookManagement\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\BookManagement\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T06:08:34.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\BookManagement\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\BookManagement\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T06:06:52.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

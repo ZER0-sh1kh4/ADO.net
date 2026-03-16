@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SHOBHIT\\source\\repos\\Middleware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{051F4EFC-22C8-4F51-BA38-47BE0BAE1395}|Middleware.csproj|c:\\users\\shobhit\\source\\repos\\middleware\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051F4EFC-22C8-4F51-BA38-47BE0BAE1395}|Middleware.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051F4EFC-22C8-4F51-BA38-47BE0BAE1395}|Middleware.csproj|c:\\users\\shobhit\\source\\repos\\middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051F4EFC-22C8-4F51-BA38-47BE0BAE1395}|Middleware.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051F4EFC-22C8-4F51-BA38-47BE0BAE1395}|Middleware.csproj|c:\\users\\shobhit\\source\\repos\\middleware\\views\\customer\\ordersabove1000.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{051F4EFC-22C8-4F51-BA38-47BE0BAE1395}|Middleware.csproj|solutionrelative:views\\customer\\ordersabove1000.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051F4EFC-22C8-4F51-BA38-47BE0BAE1395}|Middleware.csproj|c:\\users\\shobhit\\source\\repos\\middleware\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051F4EFC-22C8-4F51-BA38-47BE0BAE1395}|Middleware.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SHOBHIT\\source\\repos\\Middleware\\Migrations\\20260309060244_MiddlewareRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260309060244_MiddlewareRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051F4EFC-22C8-4F51-BA38-47BE0BAE1395}|Middleware.csproj|c:\\users\\shobhit\\source\\repos\\middleware\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{051F4EFC-22C8-4F51-BA38-47BE0BAE1395}|Middleware.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051F4EFC-22C8-4F51-BA38-47BE0BAE1395}|Middleware.csproj|c:\\users\\shobhit\\source\\repos\\middleware\\services\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051F4EFC-22C8-4F51-BA38-47BE0BAE1395}|Middleware.csproj|solutionrelative:services\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051F4EFC-22C8-4F51-BA38-47BE0BAE1395}|Middleware.csproj|c:\\users\\shobhit\\source\\repos\\middleware\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051F4EFC-22C8-4F51-BA38-47BE0BAE1395}|Middleware.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051F4EFC-22C8-4F51-BA38-47BE0BAE1395}|Middleware.csproj|c:\\users\\shobhit\\source\\repos\\middleware\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051F4EFC-22C8-4F51-BA38-47BE0BAE1395}|Middleware.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051F4EFC-22C8-4F51-BA38-47BE0BAE1395}|Middleware.csproj|c:\\users\\shobhit\\source\\repos\\middleware\\middleware.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{051F4EFC-22C8-4F51-BA38-47BE0BAE1395}|Middleware.csproj|solutionrelative:middleware.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\Middleware\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\Middleware\\Controllers\\CustomerController.cs*",
+              "RelativeToolTip": "Controllers\\CustomerController.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T06:10:04.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260309060244_MiddlewareRepo.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\Middleware\\Migrations\\20260309060244_MiddlewareRepo.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260309060244_MiddlewareRepo.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\Middleware\\Migrations\\20260309060244_MiddlewareRepo.cs",
+              "RelativeToolTip": "Migrations\\20260309060244_MiddlewareRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T06:02:45.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\Middleware\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\Middleware\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-09T06:00:46.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\Middleware\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\Middleware\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T05:58:24.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersAbove1000.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\Middleware\\Views\\Customer\\OrdersAbove1000.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\OrdersAbove1000.cshtml",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\Middleware\\Views\\Customer\\OrdersAbove1000.cshtml",
+              "RelativeToolTip": "Views\\Customer\\OrdersAbove1000.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T05:57:40.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\Middleware\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\Middleware\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T05:35:00.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Middleware",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\Middleware\\Middleware.csproj",
+              "RelativeDocumentMoniker": "Middleware.csproj",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\Middleware\\Middleware.csproj",
+              "RelativeToolTip": "Middleware.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-09T05:34:15.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\Middleware\\Services\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "Services\\DataSeeder.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\Middleware\\Services\\DataSeeder.cs",
+              "RelativeToolTip": "Services\\DataSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T05:33:52.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\Middleware\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\Middleware\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T05:32:12.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\SHOBHIT\\source\\repos\\Middleware\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\SHOBHIT\\source\\repos\\Middleware\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T05:31:48.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
